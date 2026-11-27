@@ -25,4 +25,4 @@ Trapline is a mod for The Long Dark that completely changes the existing mechani
 
 **Dependencies:**
 
-- ModSettings
+- [ModSettings](https://github.com/DigitalzombieTLD/ModSettings/releases/tag/v2.2.5)
